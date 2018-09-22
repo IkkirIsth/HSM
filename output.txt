@@ -1,0 +1,1 @@
+0(12) : error C1008: undefined variable "UV2"

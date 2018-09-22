@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="HSMFrag.glsl" open="1" top="0" tabpos="8">
+		<Cursor position="269" topLine="0" />
+	</File>
+	<File name="HSMGeo.glsl" open="1" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="HSMVert.glsl" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="HSMmisc.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="34" topLine="0" />
+	</File>
+	<File name="HSMmisc.hpp" open="1" top="0" tabpos="10">
+		<Cursor position="160" topLine="0" />
+	</File>
+	<File name="HSMshader.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="2183" topLine="52" />
+	</File>
+	<File name="HSMshader.hpp" open="1" top="0" tabpos="3">
+		<Cursor position="95" topLine="0" />
+	</File>
+	<File name="HSMship.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="2214" topLine="67" />
+	</File>
+	<File name="HSMship.hpp" open="1" top="0" tabpos="5">
+		<Cursor position="627" topLine="6" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="15775" topLine="171" />
+	</File>
+	<File name="objloader.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="objloader.hpp" open="0" top="0" tabpos="2">
+		<Cursor position="296" topLine="0" />
+	</File>
+	<File name="tangentspace.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="tangentspace.hpp" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="vboindexer.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="vboindexer.hpp" open="0" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

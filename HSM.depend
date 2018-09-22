@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1349504110 source:c:\users\tenoch\desktop\shipmuseum\objloader.cpp
+	<vector>
+	<stdio.h>
+	<string>
+	<cstring>
+	<glm/glm.hpp>
+	"objloader.hpp"
+
+1349459380 c:\users\tenoch\desktop\shipmuseum\objloader.hpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<glm/glm.hpp>
+
+1347772506 source:c:\users\tenoch\desktop\shipmuseum\tangentspace.cpp
+	<vector>
+	<glm/glm.hpp>
+	"tangentspace.hpp"
+
+1347772506 c:\users\tenoch\desktop\shipmuseum\tangentspace.hpp
+
+1347772506 source:c:\users\tenoch\desktop\shipmuseum\vboindexer.cpp
+	<vector>
+	<map>
+	<glm/glm.hpp>
+	"vboindexer.hpp"
+	<string.h>
+
+1347772506 c:\users\tenoch\desktop\shipmuseum\vboindexer.hpp
+
+1351815411 source:c:\users\tenoch\desktop\shipmuseum\main.cpp
+	<vector>
+	<GL/glew.h>
+	<SDL.h>
+	<SDL_opengl.h>
+	"SDL_image.h"
+	"objloader.hpp"
+	"tangentspace.hpp"
+	"vboindexer.hpp"
+	"HSMshader.hpp"
+	"HSMship.hpp"
+	<glm/glm.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtx/transform.hpp>
+
+1351750283 source:c:\users\tenoch\desktop\shipmuseum\hsmshader.cpp
+	"HSMshader.hpp"
+
+1351750796 c:\users\tenoch\desktop\shipmuseum\hsmshader.hpp
+	<GL/glew.h>
+	<SDL_opengl.h>
+	"HSMmisc.hpp"
+
+1351749159 c:\users\tenoch\desktop\shipmuseum\hsmmisc.hpp
+	<stdlib.h>
+	<fstream>
+
+1351749199 source:c:\users\tenoch\desktop\shipmuseum\hsmmisc.cpp
+	"HSMmisc.hpp"
+
+1351815554 c:\users\tenoch\desktop\shipmuseum\hsmship.hpp
+	<GL/glew.h>
+	<SDL_opengl.h>
+	"HSMmisc.hpp"
+
+1352229805 source:c:\users\tenoch\dropbox\hsmnov32012\hsmshader.cpp
+	"HSMshader.hpp"
+
+1351747196 c:\users\tenoch\dropbox\hsmnov32012\hsmshader.hpp
+	<GL/glew.h>
+	<SDL_opengl.h>
+	"HSMmisc.hpp"
+
+1352139329 c:\users\tenoch\dropbox\hsmnov32012\hsmmisc.hpp
+	<stdlib.h>
+	<fstream>
+	<vector>
+
+1352237807 source:c:\users\tenoch\dropbox\hsmnov32012\main.cpp
+	<vector>
+	<GL/glew.h>
+	<SDL.h>
+	<SDL_opengl.h>
+	"SDL_image.h"
+	"objloader.hpp"
+	"tangentspace.hpp"
+	"vboindexer.hpp"
+	"HSMshader.hpp"
+	"HSMship.hpp"
+	<glm/glm.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtx/transform.hpp>
+
+1349455780 c:\users\tenoch\dropbox\hsmnov32012\objloader.hpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<glm/glm.hpp>
+
+1347768906 c:\users\tenoch\dropbox\hsmnov32012\tangentspace.hpp
+
+1347768906 c:\users\tenoch\dropbox\hsmnov32012\vboindexer.hpp
+
+1352237440 c:\users\tenoch\dropbox\hsmnov32012\hsmship.hpp
+	<GL/glew.h>
+	<SDL_opengl.h>
+	"HSMmisc.hpp"
+
+1349500510 source:c:\users\tenoch\dropbox\hsmnov32012\objloader.cpp
+	<vector>
+	<stdio.h>
+	<string>
+	<cstring>
+	<glm/glm.hpp>
+	"objloader.hpp"
+
+1347768906 source:c:\users\tenoch\dropbox\hsmnov32012\tangentspace.cpp
+	<vector>
+	<glm/glm.hpp>
+	"tangentspace.hpp"
+
+1347768906 source:c:\users\tenoch\dropbox\hsmnov32012\vboindexer.cpp
+	<vector>
+	<map>
+	<glm/glm.hpp>
+	"vboindexer.hpp"
+	<string.h>
+
+1351745599 source:c:\users\tenoch\dropbox\hsmnov32012\hsmmisc.cpp
+	"HSMmisc.hpp"
+
+1352241091 source:c:\users\tenoch\dropbox\hsmnov32012\hsmship.cpp
+	"HSMship.hpp"
+
